@@ -1,7 +1,7 @@
-Website desamind-id
+Website IYouth Conference desamind-id
 ==
-File wordpress
+Template Web
 --
 *Saya tidak tahu apa yang harus di share disini wkwk*
-- Folder Wordpress
-- Database
+- Folder web
+- dan lain-lain
